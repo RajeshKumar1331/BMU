@@ -1,1 +1,1 @@
-print("Using CC Method and calibration")
+print("Using Constant Gain approach")
